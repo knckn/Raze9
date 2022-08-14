@@ -6,5 +6,8 @@ __`没有梦想，没有未来`__<br>
 [![Discord](https://img.shields.io/badge/Discord-失败者REMAKE联盟-%235865F2?style=flat-square&logo=discord)](https://discord.gg/Sa2K5AuFg8) ![Discord](https://img.shields.io/discord/1008361485984071781?label=%20&style=plastic) <br>
 [![Twitter](https://img.shields.io/twitter/follow/DrShenYi?style=social)](https://twitter.com/intent/follow?screen_name=DrShenYi)
 
-
+NO dream  NO future<br>
+I'm waiting for death<br>
+I wish everyone died<br>
+So this world is belong to me
 
