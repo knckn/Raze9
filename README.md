@@ -9,6 +9,6 @@ __`没有梦想，没有未来`__<br>
 NO dream  NO future.<br>
 I'm waiting for death.<br>
 I wish everyone died.<br>
-SO this world is belongs to me.
+So this world is belongs to me.
 
 
