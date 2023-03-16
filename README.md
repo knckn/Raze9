@@ -1,8 +1,8 @@
 ### Hello こにちわ 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raze9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raze9)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 - 🔭 I’m currently working on Go
 - 🌱 I’m currently learning C#/unity/React
@@ -22,3 +22,6 @@
 - I wish everyone died.<br>
 - So this world is belongs to me.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raze9&hide=contribs,issues)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raze9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
